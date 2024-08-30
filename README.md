@@ -74,6 +74,12 @@
 
 ![image](https://github.com/user-attachments/assets/09c4a046-6e2c-4cf2-898c-e44baf3f4042)
 
+## Repository for storing detected objects: 
+
+![DataBase](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/39fde482-c577-4a7c-9bcc-7c76aaca15aa)
+
+![DataBase2](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/2c83962f-560f-4a43-8b71-59802d3ae317)
+
 ## Real-Time Database Appearance After Video Stream Completion: 
 
 ![image](https://github.com/user-attachments/assets/8be0c38a-a062-484f-9319-5b538f371ba0)
