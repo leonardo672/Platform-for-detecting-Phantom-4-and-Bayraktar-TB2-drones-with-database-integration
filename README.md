@@ -50,6 +50,18 @@
 
 ![image](https://github.com/user-attachments/assets/deb2e55a-074f-4bf8-83a5-9396f50aeaf5)
 
+## **Displaying Detected Images:** 
+![output_48_0](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/5ca608f1-6276-4646-9be8-84847cb6425d)
+![output_49_1](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/dcc54cfd-84e0-4a82-aecc-4120ce938f69)
+![output_49_29](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/d61f7943-c6e5-4eaa-b8ea-be0d5bcb3c8b)
+![output_49_35](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/d8be27e4-a241-4fc1-b943-3263f9c8020d)
+![output_49_37](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/7004c389-28a9-4ab7-b32c-b9553430d2a5)
+![output_49_67](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/f86d1fc2-8202-408f-ad83-8003cdbdaa81)
+![output_52_37](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/5532a78f-22ef-4bda-9f2f-87f4b08ebc52)
+![output_52_39](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/30f0c6be-ac50-4ced-9066-46cbb4cfc70b)
+![output_52_43](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/ddea88a8-841b-41f2-b180-d536dd517bba)
+![output_52_71](https://github.com/leonardo672/Project-Detection-of-drones-in-the-Jupyter-environment/assets/73609700/7bd458c3-d81e-446f-af47-20c57f4e9b8d)
+
 ## Selection of Video File from Local Folder: 
 
 ![image](https://github.com/user-attachments/assets/190f29aa-2684-48ad-88fa-f925e3d910c0)
